@@ -1,0 +1,15 @@
+/Users/mihkelkask/Projects/Week_6/Random_element/bin/Debug/net7.0/Random_element
+/Users/mihkelkask/Projects/Week_6/Random_element/bin/Debug/net7.0/Random_element.deps.json
+/Users/mihkelkask/Projects/Week_6/Random_element/bin/Debug/net7.0/Random_element.runtimeconfig.json
+/Users/mihkelkask/Projects/Week_6/Random_element/bin/Debug/net7.0/Random_element.dll
+/Users/mihkelkask/Projects/Week_6/Random_element/bin/Debug/net7.0/Random_element.pdb
+/Users/mihkelkask/Projects/Week_6/Random_element/obj/Debug/net7.0/Random_element.csproj.AssemblyReference.cache
+/Users/mihkelkask/Projects/Week_6/Random_element/obj/Debug/net7.0/Random_element.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihkelkask/Projects/Week_6/Random_element/obj/Debug/net7.0/Random_element.AssemblyInfoInputs.cache
+/Users/mihkelkask/Projects/Week_6/Random_element/obj/Debug/net7.0/Random_element.AssemblyInfo.cs
+/Users/mihkelkask/Projects/Week_6/Random_element/obj/Debug/net7.0/Random_element.csproj.CoreCompileInputs.cache
+/Users/mihkelkask/Projects/Week_6/Random_element/obj/Debug/net7.0/Random_element.dll
+/Users/mihkelkask/Projects/Week_6/Random_element/obj/Debug/net7.0/refint/Random_element.dll
+/Users/mihkelkask/Projects/Week_6/Random_element/obj/Debug/net7.0/Random_element.pdb
+/Users/mihkelkask/Projects/Week_6/Random_element/obj/Debug/net7.0/Random_element.genruntimeconfig.cache
+/Users/mihkelkask/Projects/Week_6/Random_element/obj/Debug/net7.0/ref/Random_element.dll
