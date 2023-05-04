@@ -5,22 +5,22 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Random__element PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Number__Array PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="Random_element/Program.cs">
     <Files>
-      <File FileName="Week_6/Program.cs" Line="9" Column="1" />
-      <File FileName="Number_Array/Program.cs" Line="4" Column="13" />
-      <File FileName="Random_element/Program.cs" Line="1" Column="17" />
+      <File FileName="Number_Array/Program.cs" />
+      <File FileName="Random_element/Program.cs" Line="10" Column="1" />
+      <File FileName="String_and_Arrays/Program.cs" Line="28" Column="69" />
+      <File FileName="Week_6/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Week_6" expanded="True">
-            <Node name="Number_Array" expanded="True" />
-            <Node name="Random_element" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-            <Node name="Week_6" expanded="True" />
+          <Node name="Week_6" expanded="True" selected="True">
+            <Node name="Array" expanded="True" />
+            <Node name="String_and_Arrays" expanded="True" />
           </Node>
         </State>
       </Pad>
